@@ -1,0 +1,19 @@
+body {
+    padding: 5%;
+}
+
+section {
+    padding-top: 15px;
+}
+
+.section-title,
+.section-descr {
+    color: green;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section-descr {
+    color: blue !important;
+}
